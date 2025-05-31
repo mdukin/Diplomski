@@ -1,0 +1,53 @@
+### 
+python -m venv .venv 
+source .venv/bin/activate
+(.\.venv\Scripts\Activate)
+pip install -r requirements.txt
+
+b6a7999cf30d4ccd8048de002b627cc9
+{
+  "private": "1d3c3c5f4cde459df08979a483d8b66fb83293d2e40da406fbdc58c226a1c9ea",
+  "public": "0227d97286d321c34e0053e375a7b7b958838548e5e30ad2c73103eb7d558a245c",
+  "address": "C2iuohgiygEJLFbpGVj4Gsvnjfc9PFdJV1",
+  "wif": "BpJrrYM7vGrYkA3KXw1oRyUg2LjMQsqwGDgamj14CQkLR1fbMc9M"
+}
+
+a4bb523425a345eba4c973fb12031db3
+{
+  "private": "75f6e4eda12b6ab80b16d6d37dde3c10d4b074b3725be678d6c857211aed921a",
+  "public": "035ee00011f377399d2ec535e0ebd7863976dc2a66a5f1e21ce77e06e3ae9739ba",
+  "address": "CCmhtZQprFuZQXq92YRrRRPDrrzvuba72b",
+  "wif": "BsHLa1CwzKstcYfBDHAN3p5kVdiJmXvcTYUCgesiPAsaqFCHL7YX"
+}
+
+curl -d "{"address": "C2iuohgiygEJLFbpGVj4Gsvnjfc9PFdJV1", "amount": 100000}" https://api.blockcypher.com/v1/bcy/test/faucet?token=$b6a7999cf30d4ccd8048de002b627cc9
+
+curl -d "{"address": "CCmhtZQprFuZQXq92YRrRRPDrrzvuba72b", "amount": 100000}" https://api.blockcypher.com/v1/bcy/test/faucet?token=$a4bb523425a345eba4c973fb12031db3
+
+curl -X POST "https://api.blockcypher.com/v1/bcy/test/addrs?token=$b6a7999cf30d4ccd8048de002b627cc9"
+
+#######
+f6e63df75bf64570b6c71d1c4040cfa5
+
+{
+  "private": "30f109bef065587f62b794f26e30fd8b3a2bf2547b3b2bc20bfba5cdc7501b89",
+  "public": "03b66360401aa009f8d05b4d38fe9df8d0f43cf52c3d2c2e60fd1d5ef0a8e5300b",
+  "address": "BxqvgPgFGqZoc9Re7zj52ecsNQVnkoD85x",
+  "wif": "BpyAdF5ybt7Hj6cyLvrYXsLK7qWHqGbRU5vBuEfbQac4cnVHRFWA"
+}
+
+{
+  "tx_ref": "89a48d7457bb924b50563d4dffa70125c8d63e38ba8afbdcfbe151d0f2d5e0c0"
+}
+
+klijent 1
+Private key: cUDmuuBUg76Fm5qqBoh5C5MvPBjFJHENj9S5sVxgqPe4yifvYwGR
+Address: n2Ge1ReWmRJK8cU7SmcksSPaxbZFug9B6P
+
+2
+Private key: cURGfHt38wPNp6xXzvQ8YW8Wwb9NMU3xwY1BDk3LxHHkMfjiwbMe
+Address: mgSGt9jX8kySXbreoF3xCP9BaFpizPdkQT
+
+3
+Private key: cNkgM8eDTP8dCsqRCyVXeRubScH3oBiSypanG3yo2egrm7Z6UgWS
+Address: miBGmsLUqt3LeTrKT9cFjv5Pvaf5yeWoPD

@@ -1,0 +1,10 @@
+opis personaliziranog objekta:
+U konzoli se nakon svakog poteza ispisuje stanje igre po vrijednostima figura.
+Ako bijeli igrač ima topa i pijuna više, ispisat će se 6(5+1); ako crni ima lovca i skakača više ispisat će se -6(-3 -3).
+Kralj vrijedi 1000 i njegovim uzimanjem(?) igra završava.
+
+PROJEKT
+https://1drv.ms/f/c/397f02cc16ef54b3/En81EVu5dGlEo_6FC6IUN4ABIHhXMLQaS3phjN_p5kKoiw?e=sQBaiG
+
+BUILD:
+https://1drv.ms/f/c/397f02cc16ef54b3/ElDHSZiFLGNKtOSDzBByWp8BtWj061PommGkkQ-uM5Ef8w?e=Bfyc8F

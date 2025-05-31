@@ -1,0 +1,9 @@
+opis
+Dodan tekst u glavnom izborniku koji alternatira između riječi TIC i TAC
+pomoću skripte tictacManager.
+
+projekt
+https://1drv.ms/f/c/397f02cc16ef54b3/EsDd45ugZkBBjrK6zVZRCpsBbmroim7_xIVEqQtny34Glg?e=ZGUAbW
+
+build
+https://1drv.ms/f/c/397f02cc16ef54b3/ElB734_uYv1LsxWDlLJFcdEBFvH5yc1TQKqQXTBdgRhG1g?e=Qs6AuV

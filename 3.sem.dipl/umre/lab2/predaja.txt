@@ -1,0 +1,11 @@
+kratki opis personaliziranog elementa
+Dodane su "rupe" na pod scene pomocu skripte HoleManager.Kada igrač stane na rupu koja je označena crnom bojom 
+teleportirati će se na svoj "spawn point".To čini igru uzbudljivijom jer igrači moraju paziti kuda hodaju, ali također,
+te rupe se mogu koristit na strateški način: npr. moj protivnik je došao do mog spawn pointa i obojao većinu tog prostora,
+ja zatim tražim rupu tako da mogu vratiti natrag moj teritorij.
+
+projekt
+https://1drv.ms/f/c/397f02cc16ef54b3/EpoK0EW2qopHnS-mzgu2HlUBrP_ljosz3s2Nld8iFw6yzQ?e=FtPM0r
+
+build
+https://1drv.ms/f/c/397f02cc16ef54b3/Epyxo8wuf3FIt7FNihZx8i8BoM6lBpI9Z2Mp7MqeFN8wKQ?e=Qwl7x4
