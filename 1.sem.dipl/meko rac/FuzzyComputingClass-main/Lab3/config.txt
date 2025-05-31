@@ -1,0 +1,4 @@
+java -jar D:\faks\1.sem.dipl\meko rac\FuzzyComputingClass-main\Lab3\brod.jar
+1
+10 
+10

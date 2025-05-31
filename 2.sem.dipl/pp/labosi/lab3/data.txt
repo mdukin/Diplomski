@@ -1,0 +1,58 @@
+zad 1: n = 2**20
+Parallel part time: 0.176055 seconds
+Sum of primes: [82025]
+Sequential execution time: 9.626752 seconds
+Sum of primes: 82025
+N: 1048576
+
+L,G
+Parallel part time: 0.674515 seconds
+8 128
+Parallel part time: 0.955910 seconds
+16 128
+Parallel part time: 1.114481 seconds
+32 128
+Parallel part time: 1.136695 seconds
+64 128
+Parallel part time: 1.152463 seconds
+128 128
+Parallel part time: 0.325492 seconds
+8 256
+Parallel part time: 0.478726 seconds
+16 256
+Parallel part time: 0.554148 seconds
+32 256
+Parallel part time: 0.581055 seconds
+64 256
+Parallel part time: 0.573664 seconds
+128 256
+Parallel part time: 0.247695 seconds
+8 512
+Parallel part time: 0.236143 seconds
+16 512
+Parallel part time: 0.277922 seconds
+32 512
+Parallel part time: 0.282208 seconds
+64 512
+Parallel part time: 0.282364 seconds
+128 512
+Parallel part time: 0.217335 seconds
+8 1024
+Parallel part time: 0.180988 seconds
+16 1024
+Parallel part time: 0.135525 seconds
+32 1024
+Parallel part time: 0.149822 seconds
+64 1024
+Parallel part time: 0.132443 seconds
+128 1024
+Parallel part time: 0.214782 seconds
+8 2048
+Parallel part time: 0.151957 seconds
+16 2048
+Parallel part time: 0.115372 seconds
+32 2048
+Parallel part time: 0.068541 seconds
+64 2048
+Parallel part time: 0.109819 seconds
+128 2048

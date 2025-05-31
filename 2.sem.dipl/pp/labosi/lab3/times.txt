@@ -1,0 +1,15 @@
+slijedno
+
+After 1000 iterations, the error is 0.00125534
+Time for 1000 iterations was 6290.71 seconds
+Each iteration took 6.29071 seconds
+... finished
+
+parallel
+
+After 1000 iterations, the error is 0.00125534
+Time for 1000 iterations was 79.8563 seconds
+Each iteration took 0.0798563 seconds
+... finished
+
+ubrzanje= 78.77

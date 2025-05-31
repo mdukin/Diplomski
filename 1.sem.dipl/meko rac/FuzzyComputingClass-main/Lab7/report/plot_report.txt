@@ -1,0 +1,6 @@
+set grid
+unset colorbox
+set xrange[0:1]
+set yrange[0:1]
+set palette defined (0 "blue", 1 "green", 2 "red", 5 "yellow")
+plot 'zad7-class-dataset.txt' using 1:2:3 with points pt 3 palette

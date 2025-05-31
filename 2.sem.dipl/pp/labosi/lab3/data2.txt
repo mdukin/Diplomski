@@ -1,0 +1,50 @@
+Parallel part time: 0.165713 seconds
+8 262144.0
+Parallel part time: 0.160317 seconds
+16 262144.0
+Parallel part time: 0.151060 seconds
+32 262144.0
+Parallel part time: 0.154849 seconds
+64 262144.0
+Parallel part time: 0.151373 seconds
+128 262144.0
+Parallel part time: 0.077232 seconds
+8 131072.0
+Parallel part time: 0.077015 seconds
+16 131072.0
+Parallel part time: 0.076428 seconds
+32 131072.0
+Parallel part time: 0.075995 seconds
+64 131072.0
+Parallel part time: 0.076517 seconds
+128 131072.0
+Parallel part time: 0.074111 seconds
+8 65536.0
+Parallel part time: 0.041722 seconds
+16 65536.0
+Parallel part time: 0.039289 seconds
+32 65536.0
+Parallel part time: 0.037746 seconds
+64 65536.0
+Parallel part time: 0.039669 seconds
+128 65536.0
+Parallel part time: 0.073112 seconds
+8 32768.0
+Parallel part time: 0.038626 seconds
+16 32768.0
+Parallel part time: 0.021894 seconds
+32 32768.0
+Parallel part time: 0.020614 seconds
+64 32768.0
+Parallel part time: 0.021420 seconds
+128 32768.0
+Parallel part time: 0.074108 seconds
+8 16384.0
+Parallel part time: 0.036295 seconds
+16 16384.0
+Parallel part time: 0.021031 seconds
+32 16384.0
+Parallel part time: 0.013083 seconds
+64 16384.0
+Parallel part time: 0.022888 seconds
+128 16384.0

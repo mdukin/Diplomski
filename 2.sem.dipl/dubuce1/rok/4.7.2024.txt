@@ -1,0 +1,9 @@
+1 def odziva
+2 rgb jezgra vs siva jezgra, 3x param
+3 
+
+1. konvolucija, grad po param
+2.sdp, s momentom, rsp, adam, f = x^2 -4x+2 ; min adamom uz zadane hiperparam
+3.fc, izvesti, glupe gradijente po W, po wj, po vec(W)
+4.trojno ucenje, trojni gubitak, dani sidro,p,n, grad po W; metricko ugradjivanje preko wx+b
+5. paznja, neka glupost iz unatraznjih mreza

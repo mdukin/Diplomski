@@ -1,0 +1,26 @@
+seed 7052020 rnn
+default Test accuracy = 0.6502293577981652
+Test accuracy = 0.698394495412844 size=300
+Test accuracy = 0.6846330275229358 +bidirectional
+Test accuracy = 0.694954128440367 + drop 0.1
+Test accuracy = 0.7029816513761468 slojevi 3
+Test accuracy = 0.6720183486238532  slojevi 4, size = 300
+Test accuracy = 0.6525229357798165 slojevi 1, size=300
+Test accuracy = 0.6444954128440367 slojevi 1, size=150
+Test accuracy = 0.7018348623853211 slojevi 1, bidirectional True
+Test accuracy = 0.6548165137614679 sl_2 dropout 0.3 bid
+Test accuracy = 0.661697247706422 sl_2 dropout 0.2 bid
+Test accuracy = 0.6926605504587156 sl 2 drop 0.1
+Test accuracy = 0.6915137614678899 drop 0.25
+Test accuracy = 0.6823394495412844 drop 0.6
+Test accuracy = 0.6777522935779816 sl_2 dropout 0 bid
+Test accuracy = 0.6811926605504587 sl 3 dr 0.3
+Test accuracy = 0.694954128440367 sl 5 hsize 500 dr 0.3
+lstm 
+Test accuracy = 0.6846330275229358 sl 3 siz 300 bid
+Test accuracy = 0.680045871559633 sloj 1 siz 150
+Test accuracy = 0.6869266055045872 +bid
+gru
+Test accuracy = 0.716743119266055 sl 1  150
+Test accuracy = 0.7305045871559633 sl 1 200
+Test accuracy = 0.7213302752293578 + bidire sl 2

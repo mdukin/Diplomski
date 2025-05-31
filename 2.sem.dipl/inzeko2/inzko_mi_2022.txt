@@ -1,0 +1,139 @@
+Tocni odgovori na dnu, pravi ispit ima abcde, a ovaj samo abcd jer se nisam svega sica a ono sta nisan san dava plosible odgovore.
+
+1. Kako se zove process ubacivanja eksternog troska u cijenu proizvoda?
+a) eksternizacija
+b) generalizacija
+c) internalizacija
+d) globalizacija
+
+
+2. Kako se obicno pribavlja novac potreban za subvenciju necega sto ima pozitivan eksterni trosak?
+a) trosarinama
+b) porezom na stvari s negativnim eksternim troskom
+c) porezom na stvari s pozitivnim eksternim troskom
+d) iz opcih sredstava
+
+
+3. Imamo diskontnu obveznicu koja je izdana sada i datum prispjeca je za 4 mjeseca. Prodaje se po 961kn a nazivna vrijednost je 100kn. Kolika je ocekivana godisnja stopa na prispjece?
+a) 5.5%
+b) 10.5%
+c) 12.5%
+d) 14.5%
+
+
+4. Kada je drustveno optimalno koristenje resurasa?
+a) ono nikada nije optimalno
+b) kada je marginalni socijani trosak (MSC) manji od marginalnog socijalnog benefita (MSB)
+c) kada je marginalni socijani trosak (MSC) jednak od marginalnog socijalnog benefita (MSB)
+d) kada je marginalni socijani trosak (MSC) veci od marginalnog socijalnog benefita (MSB)
+
+
+5. Sto europski zakoni govore o monopolu?
+a) monopol je uvijek nedopusten i treba ga rastaviti
+b) iako je monopol stetan za gradane on je zasticen pravom na privatno vlasnistvo
+c) administrativan monopol je dopusten
+d) administrativan monopol nije dopusten, monopol nije illegalan dok se ne koristi za odrzavanje monopola
+
+
+6. Kumulativna kolicina bogatstva u nekoj drzavi ima oblik 100*s^k/100^k , gdje je k parametar a s postotak stanovnistva. Koliki je gini koeficijent?
+a) (k-1)/(k+1)
+b) 2/(k+1)
+c) k/(k+1)
+d) 2k/(k-1)
+
+
+7. Marijana zaraduje u firmi abc 100 kuna sat. Ona radi 5 dana u tjednu, 8 sati dnevno. Ukoliko je nezaposlena godinu dana moze primati 50 kuna dnevno kao nezaposlena osoba. Osobi kao sto je marijana treba 40 tjedana da nade novi posao. Kolika je renta?
+a) 150 kkuna
+b) 146 kkuna
+c) 160 kkuna
+d) 100 kkuna
+
+
+8. Sto znaci izraz da je nesto politicki neostvarivo, u kontekstu government failurea?
+a) da se politicari boje to napraviti iako bi imalo benefit zbog sljedecih izbora
+b) da je nesto neostvarivo s fiskalne strane pa time i politicki nepopularno
+c) da politicari to ne zele napraviti iz svojih osobnih uvjerenja
+d) da se politicari boje to napraviti zbog reakcije nekih interesnih skupina
+
+
+9. Sto je nekompletan ugovor?
+a) to je ugovor koji sve strane nisu potpisale ali idalje vazi
+b) to je ugovor u kojemu su svi uvjeti izvedbe specificirani i vazi
+c) to je ugovor u kojemu sve nije specificirano ali on idalje vazi
+d) to je ugovor koji odvjetnici jos nisu dovrsili ali idalje vazi
+
+
+10. Sto kaze generalna ili Peltzmanova teorija regulacije
+a) regulator pritisnut od stanovnistva cini ono sto je najbolje za drzavu
+b) regulator primajuci povlastice od tvrtki biva 'zarobljen' i cini ono sta je najbolje za njih
+c) regulator pritisnut od tvrtki cini ono sto je najbolje za drzavu
+d) regulator maksimizira svoju dobrobit, pri tom balansirajuci izmedu tvrtki i stanovnistva
+
+
+11. Prema teoriji o transakcijskim troskovima tvrtka raste dok?
+a) dok je cijena izrade nekog proizvoda manja u tvrtci nego li na trzistu
+b) dok je cijena izrade nekog proizvoda veca u tvrtci nego li na trzistu
+c) dok cijena izrade u tvrtci ne postance skoro niza nego li na trzistu
+d) dok cijena izrade u tvrtci ne postance skoro visa nego li na trzistu
+
+
+12. ukoliko firma digne sveukupno 200kkuna, jednim kreditom vrijednosti 50kkuna s kamatom od 4% i jednim vrijednosti 150kkuna kamate 3%, koliki je njoj trosak kapitala?
+a) 3%
+b) 3.15%
+c) 3.25%
+d) 4%
+
+
+13. U jednoj drzavi je 30M ljudi, od toga 10M nije radno sposobno (djeca, skolarci..), od ostalih je 200k u vojsci i zatvoru, 1M ne trazi posao, 2.8M zele posao, traze posao i ne moze ga naci, a ostatak radi. Kolika je zaposlenost i nezaposlenost?
+a) 53.3%, 46.7%
+b) 85.1%, 14.9%
+c) 80.8%, 10.1%
+d) 80.8%, 14.9%
+
+
+14. Prema teoriji medunarodne trgovine drzava:
+a) se specijalizira u proizvodnji onoga u cemu je relativno efikasnija, dok ostatak uvozi
+b) se specijalizira u proizvodnji onoga u cemu je relativno neefikasnija kako bi kasnije mogla konkurirati
+c) proizvodi u omjeru efikasnosti, tako da postize razinu koja se nalazi izmedu potpunog uvoza i izvoza pri cemu proizvodi barem malo svakog proizvoda
+d) specijalizira se u proizvodnji onoga u cemu ima absolutnu efikasnost, dok ostatak uvozi
+
+
+15. Kako izgleda graf ponude rada s obzirom na nadnicu (ponuda rada y, nadnica x)?
+a) u pocetku je na visokoj razini te porastom place ponuda rada pada
+b) u pocetku je na niskoj razini te porastom place ponuda rada raste
+c) u pocetku je ponuda rada na niskoj razini pa raste pa opet pada s nadnicom
+d) u pocetku je ponuda rada na visokoj razini pa pada pa opet raste s nadnicom
+
+
+
+
+
+
+
+Rjesenja
+
+1 c
+2 b
+3 c (stopa je 4%, sto kad se prebaci na godisnu razinu je 1.04^3-1=12.64%)
+4 c
+5 d
+6 a (integrira se ta funkcija od 0 do 100 i to je = B, ginijev koef je A/(A+B) gdje je B povrsina ispod grafa a A povrsina izmedu grafa i idealne raspodjele (sto je jednakokracni pravokutni trokut povrsine 100^2/2)
+7 b (100*8*5*40 - 50*7*40)
+8 d
+9 c
+10 d
+11 a
+12 c (50/200*4% + 150/200*3%)
+13 d 
+14 a
+15 c
+
+
+
+
+
+
+
+
+
+
